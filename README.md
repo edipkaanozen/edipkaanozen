@@ -7,7 +7,7 @@
 - 🛠️ Tools: Git, JIRA, UIKit/SwiftUI, .NET, TensorFlow, PyTorch.  
 - 🧪 Interests: creative coding, the occasional *quantum‑meets‑chess* experiment.
 - 🤝 Open to collabs on: **LLMs, model distillation, recommender systems,** and **mobile ML**.  
-- 📫 Reach me: **kaanozen-@hotmail.com**
+- 📫 Reach me: **edipkaanozen@gmail.com**
 
 ---
 
